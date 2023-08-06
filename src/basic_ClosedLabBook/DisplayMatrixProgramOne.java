@@ -10,7 +10,7 @@ Rectangular Array.
 9 10 11 12
 13 14 15 16
 */
-public class TwoDimensionalRectangularArray {
+public class DisplayMatrixProgramOne{
 	public static void main(String[] args) {
 		int[][]	arr2D = new int[4][4];
 		int num = 1;
