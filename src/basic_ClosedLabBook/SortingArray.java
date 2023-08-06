@@ -1,7 +1,7 @@
 package basic_ClosedLabBook;
 
 import java.util.Arrays;
-
+//7. Write a program to sort an array element in ascending or descending order
 public class SortingArray {
     static void sortAscending() {
 	   int []a = {2,4,6,1,8,9,7,3,0,5};
