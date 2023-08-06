@@ -1,6 +1,7 @@
 package basic_ClosedLabBook;
 
 import java.util.Scanner;
+//8. Write a program to find the location of element in the Array.
 //FIND THE LOCATION OF THE ELEMENT IN ARRAY
 public class FindLocationOfElementinArray {
 	
