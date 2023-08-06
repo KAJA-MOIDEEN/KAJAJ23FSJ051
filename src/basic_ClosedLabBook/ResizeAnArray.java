@@ -1,7 +1,7 @@
 package basic_ClosedLabBook;
 
 import java.util.ArrayList;
-
+//6. Write a program to resize an array. – cant resize an array
 public class ResizeAnArray {
 	
 	    public static void main(String[] args) {
