@@ -28,15 +28,26 @@ class StudentResultCalculator{
 	
 	}
 	private static void calculate(int[][] Marks) {
-		
+		char[] greades = {'A','B','C','D','E'};
 		for(int i = 0 ; i < Marks.length ; i++){ // Marks.length -- length of the row
 			double totalMarks = 0;
 			for(int j =0; j< Marks[i].length;j++) { //Marks[i].length --  row[0] of the column of the length
 			totalMarks += Marks[i][j]; // add sum of columns
 			}
-		
 		double avarageMarks = totalMarks / Marks[i].length;
-	System.out.println("Student :"+(i+1)+" totalMarks : " + totalMarks+" Avarage : " +avarageMarks);
+		char greade;
+		if(avarageMarks>=90) {
+			greade = greades[0];
+		}else if(avarageMarks>=80) {
+			greade = greades[1];
+		}else if(avarageMarks>=70) {
+			greade = greades[2];
+		}else if(avarageMarks>=60) {
+			greade = greades[3];
+		}else{ 
+			greade = greades[4];
+		}
+	System.out.println("Student :"+(i+1)+" totalMarks : " + totalMarks+" Avarage : " +avarageMarks +" Greade : " + greade);
+		}
 		}
 	}
-}
