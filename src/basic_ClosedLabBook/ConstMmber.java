@@ -9,8 +9,9 @@ package basic_ClosedLabBook;
  */
 		class TestClass {
 		    // Part a: Modify const member
+			TestClass(){
 		    final int constMember = 10;
-
+			}
 		    // Part b: Access static member in a non-static method
 		    static int staticMember = 20;
 
@@ -19,7 +20,10 @@ package basic_ClosedLabBook;
 		    }
 
 		    // Part c: Class with one-argument constructor
-		    TestClass(){}
+		    //ones creating one-parameter constructor we must create no parameter constructor  
+		    //TestClass(){
+		    	//System.out.println("");
+		    //}
 		    int value;
 		    
 		    TestClass(int val) {
@@ -31,7 +35,7 @@ package basic_ClosedLabBook;
 		    public static void main(String[] args) {
 		        // Part a: Modifying const member
 		        TestClass objA = new TestClass();
-		        //objA.constMember = 15; // This line will cause an error since constMember is final
+		       // objA.constMember = 15; // This line will cause an error since constMember is final
 
 		        // Part b: Accessing static member in a non-static method
 		        TestClass objB = new TestClass();
@@ -42,4 +46,4 @@ package basic_ClosedLabBook;
 		        TestClass objC = new TestClass(30); // Instantiate object using the one-argument constructor
 		        System.out.println("Value of objC: " + objC.value);
 		    }		
-	}
+		}
