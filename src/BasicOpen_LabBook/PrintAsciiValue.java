@@ -7,8 +7,8 @@ public class PrintAsciiValue {
 		int ascii = ch;
 		// you can also cast char to int
 		int castAscii = (int) ch;
-		System.out.println("The ASCII value of "+ ch +"is:"+ascii);
-		System.out.println("The ASCII value of "+ ch +"is:"+castAscii);
+		System.out.println("The ASCII value of " + ch + "is:" + ascii);
+		System.out.println("The ASCII value of " + ch + "is:" + castAscii);
 	}
 
 }

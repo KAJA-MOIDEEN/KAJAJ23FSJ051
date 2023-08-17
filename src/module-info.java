@@ -6,4 +6,5 @@
  *
  */
 module basic_labbook {
+	requires java.desktop;
 }

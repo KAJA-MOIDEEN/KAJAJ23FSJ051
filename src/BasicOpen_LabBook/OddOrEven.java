@@ -10,18 +10,15 @@ public class OddOrEven {
 		System.out.println("Enter an integer number");
 		// the input from user is stored in num
 		num = input.nextInt();
-		/*if number is divisible by 2 then it's an even number
-		 * else odd number
+		/*
+		 * if number is divisible by 2 then it's an even number else odd number
 		 */
 		if (num % 2 == 0) {
 			System.out.println("Entered number is even");
-		}
-		else
-		{
+		} else {
 			System.out.println("Entered number is odd");
-				
+
 		}
-		
 
 	}
 

@@ -1,7 +1,8 @@
 package basic_ClosedLabBook;
+
 //2. Write a program to print default values of all primitive types.
 public class DefaultValueOfPrimitiveType {
-	
+
 	static byte b;
 	static short s;
 	static int i;
@@ -9,9 +10,9 @@ public class DefaultValueOfPrimitiveType {
 	static float f;
 	static double d;
 	static boolean bool;
-	
+
 	public static void main(String[] args) {
-		
+
 		System.out.println("default value of byte is : " + b);
 		System.out.println("default value of short is : " + s);
 		System.out.println("default value of int is : " + i);

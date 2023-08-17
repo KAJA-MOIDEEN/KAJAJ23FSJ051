@@ -10,25 +10,25 @@ Rectangular Array.
 9 10 11 12
 13 14 15 16
 */
-public class DisplayMatrixProgramOne{
+public class DisplayMatrixProgramOne {
 	public static void main(String[] args) {
-		int[][]	arr2D = new int[4][4];
+		int[][] arr2D = new int[4][4];
 		int num = 1;
 		int row = 4, col = 4;
-		//fill the matrix with number
-		for(int i = 0;i<row;i++) {
-			for(int j = 0;j<col;j++) {
+		// fill the matrix with number
+		for (int i = 0; i < row; i++) {
+			for (int j = 0; j < col; j++) {
 				arr2D[i][j] = num;
 				num++;
 			}
 		}
-		//display number matrix
-		for(int i = 0;i<row;i++) {
-			for(int j = 0;j<col;j++) {
+		// display number matrix
+		for (int i = 0; i < row; i++) {
+			for (int j = 0; j < col; j++) {
 				System.out.print(arr2D[i][j]);
 				System.out.print(" ");
+			}
+			System.out.println();
+		}
 	}
-		System.out.println();	
-		}
-		}
 }

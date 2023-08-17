@@ -9,8 +9,8 @@ public class FindAreaOfRectangle {
 		double leangh = scanner.nextDouble();
 		System.out.println("Enter the widh of Rectangle:");
 		double width = scanner.nextDouble();
-		//Area = leangh * witdh
+		// Area = leangh * witdh
 		double area = leangh * width;
-		System.out.println("Area of Rectangle is:"+area);
+		System.out.println("Area of Rectangle is:" + area);
 	}
 }
