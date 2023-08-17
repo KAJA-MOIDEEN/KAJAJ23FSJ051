@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class AverageOFNNumbers {
 	/*
-	 * Write a program to calculate average of the n number using a separate
+	 * 5.Write a program to calculate average of the n number using a separate
 	 * function other than main.
 	 */
 

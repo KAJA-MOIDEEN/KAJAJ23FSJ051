@@ -1,5 +1,14 @@
 package basic_ClosedLabBook;
-
+/*14. 
+ * a)Write a program with comment documentation. Execute javadoc on file and 
+ * view through web browser 
+ * b) Try to execute java program by giving different name to class and 
+ * file. 
+ * c) Try to execute java program by defining main 
+ 	i) Without public specifier 
+ 	ii) Without static modifier 
+ 	iii) Without function parameter 
+/*
 /**
  * This program calculates and displays the result of students based on their marks.
  * It takes the number of students and subjects, as well as the marks for each student,

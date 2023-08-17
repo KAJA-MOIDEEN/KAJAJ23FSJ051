@@ -2,7 +2,7 @@ package basic_ClosedLabBook;
 
 import java.util.Scanner;
 
-/*Write a Program to calculate result of students.(take no of student as
+/*13.Write a Program to calculate result of students.(take no of student as
  * rows and marks as columns of two Dimensional Array)
  * */
 class StudentResultCalculator {

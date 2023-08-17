@@ -2,7 +2,7 @@ package basic_ClosedLabBook;
 
 import java.util.Scanner;
 
-//Write a program to find weather a number is Prime or not
+//4.Write a program to find weather a number is Prime or not
 public class CheckPrimeOrNot {
 
 	public static void main(String[] args) {

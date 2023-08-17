@@ -2,9 +2,9 @@ package basic_ClosedLabBook;
 
 
 import java.util.Arrays;
-/*Write a program to find the largest element in each row of a 
+/*20.Write a program to find the largest element in each row of a 
 two dimensional array */
-public class LargestNumber2DArray {
+public class LargestElement2DArray {
 
 	public static void main(String[] args) {
 

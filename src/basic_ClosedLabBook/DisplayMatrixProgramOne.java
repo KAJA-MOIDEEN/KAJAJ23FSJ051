@@ -3,7 +3,7 @@ package basic_ClosedLabBook;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/*Write a program to display number matrix as follows using Two Dimensional
+/*10.Write a program to display number matrix as follows using Two Dimensional
 Rectangular Array.
 1 2 3 4
 5 6 7 8
