@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 
 //2. Write a program to print default values of all primitive types.
 public class DefaultValueOfPrimitiveType {

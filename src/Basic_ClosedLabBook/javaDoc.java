@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 /*14. 
  * a)Write a program with comment documentation. Execute javadoc on file and 
  * view through web browser 

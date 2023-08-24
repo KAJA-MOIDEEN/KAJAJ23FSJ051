@@ -1,4 +1,4 @@
-	package basic_ClosedLabBook;
+	package Basic_ClosedLabBook;
 
 import java.util.Arrays;
 /*19. Write a program to reverse the elements of each row in a two dimensional array*/

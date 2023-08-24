@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 /*1.Write hello world*/
 
 public class HelloWorld {

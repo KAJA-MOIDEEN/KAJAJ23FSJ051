@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 
 /**
  * 17. Write a java program to test: a) to modify const member b) to access

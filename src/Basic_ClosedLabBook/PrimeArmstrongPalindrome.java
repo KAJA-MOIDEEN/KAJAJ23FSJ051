@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 
 /* 15.Write a program : 
  a) To generate a Prime number list between 1 to 100 

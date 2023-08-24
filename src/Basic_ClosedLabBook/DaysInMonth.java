@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 import java.util.Scanner;
 /*21. Write a program using Switch–case to print number of days in 
 a month. For the month of February check for leap year and 

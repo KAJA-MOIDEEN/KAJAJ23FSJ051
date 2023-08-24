@@ -1,7 +1,7 @@
 /**
  * 
  */
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 
 /**
  * 12.Write a Program to access command line arguments. 

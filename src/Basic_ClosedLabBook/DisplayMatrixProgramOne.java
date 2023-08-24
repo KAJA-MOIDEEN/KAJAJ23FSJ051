@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 
 import java.util.Arrays;
 import java.util.Scanner;

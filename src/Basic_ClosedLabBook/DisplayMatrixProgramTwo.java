@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 
 /*11.Write a program to display number matrix as follows using Two Dimensional
 Rectangular Array.

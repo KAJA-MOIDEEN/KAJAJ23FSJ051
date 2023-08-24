@@ -1,4 +1,4 @@
-package basic_ClosedLabBook;
+package Basic_ClosedLabBook;
 
 /*3.Write a program to declare all primitive data types with all possible types of
 initialization and also check implicit and explicit type casting by assigning
