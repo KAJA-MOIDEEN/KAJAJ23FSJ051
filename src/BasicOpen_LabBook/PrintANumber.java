@@ -8,14 +8,15 @@ import java.util.Scanner;
 public class PrintANumber {
 
 	public static void main(String[] args) {
-	/*create a reader instance witch takes 
-	 * input from standard input - keyboard */
+		/*
+		 * create a reader instance witch takes input from standard input - keyboard
+		 */
 		Scanner reader = new Scanner(System.in);
 		System.out.println(" Enter the Number ");
 		// nextInt() reads the next integer from the keyboard
 		int number = reader.nextInt();
 		// println() prints the following line to output screen
-		System.out.println("You Entered: "+ number);
+		System.out.println("You Entered: " + number);
 	}
 
 }

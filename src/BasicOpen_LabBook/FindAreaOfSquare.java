@@ -9,10 +9,10 @@ public class FindAreaOfSquare {
 		System.out.println("enter side of the square:");
 		// store the captured value in the variable
 		double side = scanner.nextDouble();
-		//area of Square
+		// area of Square
 		double area = side * side;
-		System.out.println("Area of Square is "+ area);
-		
+		System.out.println("Area of Square is " + area);
+
 	}
 
 }
