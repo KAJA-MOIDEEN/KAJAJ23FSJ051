@@ -20,7 +20,7 @@ public class AccessModifiers {
         // Accessing default (package-private) members (from the same package)
         System.out.println("Default variable: " + obj.defaultVar);
         obj.defaultMethod();
-    }
+    }  
 }
 
 class  AccessModifiersExample{
