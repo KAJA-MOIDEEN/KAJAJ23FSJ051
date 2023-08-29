@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kajar
+ *
+ */
+module basiclabbook {
+}
