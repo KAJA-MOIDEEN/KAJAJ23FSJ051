@@ -22,6 +22,7 @@ public class AccessModifiers {
         obj.defaultMethod();
     }
 }
+
 class  AccessModifiersExample{
 	public int publicVar = 10;
 	private int privateVar = 20;
@@ -39,5 +40,6 @@ class  AccessModifiersExample{
 			 void defaultMethod() {
 				System.out.println("This is a default method");
 			}
+			
 	
 }
